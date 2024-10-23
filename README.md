@@ -23,6 +23,6 @@ Stock Management System
 
 - **Backend**: PHP
 - **Frontend**: HTML, CSS, JavaScript
-- **Database**: MySQL
+- **Database**: Xampp MySQL
 - **Version Control**: Git
 
