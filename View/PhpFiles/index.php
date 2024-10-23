@@ -46,6 +46,10 @@ if( $All_Profits_Across_All_Invoices<0 ){
   $All_Profits_Across_All_Invoices=0;
 }
 
+if(!$Count_of_Suppliers ){
+  $Count_of_Suppliers=0;
+}
+
 // Fetch sales data by category
 $SalesByCategories = $ReportController->SalesByCategories();
 
